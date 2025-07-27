@@ -1,0 +1,7 @@
+
+streamlit
+flask
+joblib
+tensorflow
+numpy
+requests
